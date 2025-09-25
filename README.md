@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **RefreshingScraps/RefreshingScraps**
 > (*&^%$#@#$%^&*()P:>:LP)O(I*&^&*()P{
 :?"}{POI*&^%$#@@!#$%^&*(&^%$#@#$%^&*(
@@ -19,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
