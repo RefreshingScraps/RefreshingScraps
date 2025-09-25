@@ -5,6 +5,8 @@
 
 https://github.com/user-attachments/assets/60938f96-d520-4d53-bfd9-7ebd2335006f
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=RefreshingScraps/RefreshingScraps&type=Date)](https://www.star-history.com/#RefreshingScraps/RefreshingScraps&Date)
 
 ## 祝您愉快
