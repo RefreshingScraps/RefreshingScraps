@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 <!--
-**RefreshingScraps/RefreshingScraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**RefreshingScraps/RefreshingScraps**
+> (*&^%$#@#$%^&*()P:>:LP)O(I*&^&*()P{
+:?"}{POI*&^%$#@@!#$%^&*(&^%$#@#$%^&*(
+|}":>?"?>LKIOP{"?>L:{}P::"?:>LOP{}{:?"
+":{":?"}?:"}|}""}"}{"""""{}}|}{}""""9
+"""""""""""""""""?>:"{}{POI*U&Y^TREW\
+Q!@#$%^&*(O)P_{}?:"}|}{}|}{}][\][';.'
+/.;lp[';'][[[[[[[[[[[[[[[[[[[[[[[[[[[
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
